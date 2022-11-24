@@ -1,16 +1,21 @@
-### Hi there 👋
+<    </a>
+  </div>
 
-<!--
-**MrXpzin/MrXpzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>Contact</h2>
+  <div>
+    <a href="https://wa.me/556592374615">
+      <img align="center"
+        src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&color=green&logo=whatsapp&logoColor=white"
+        alt="WhatsApp"/>
+    </a>
+    <a href="https://discord.gg/Brpu6s26KZ">
+      <img align="center"
+        src="https://img.shields.io/static/v1?label=Discord&message=Feh's Server&color=007DC6&style=for-the-badge&logo=discord&logoColor=white"
+        alt="Discord" />
+    </a>
+  </div>
+</div>
+<div align="center">
+  <hr>
+  Coded by <b>Feh's</b> with 🤍!
+</div>
