@@ -1,8 +1,11 @@
 
-![20221124_140358](https://user-images.githubusercontent.com/106640668/203836911-595a827c-677b-44ee-8bf2-1b156bd25524.jpg)
+
+![20221124_140656](https://user-images.githubusercontent.com/106640668/203837328-348241bf-9f32-4891-b7ec-f9747ab8053f.jpg)
+
+<h1 align="center">Hello programmer 👨‍💻 <br>
+Here is my statistics and languages<h1>
 
 
-<h2 align="center">Hello programmers 👨‍💻 </h2>
 
  <table align="center" width="100%" border="0">
     <tr>
@@ -23,9 +26,9 @@
     </tr>
   </table>
 
-
-<div style="display: inline_block" align="center">
 <h2 align="center">I'm studying these languages<h2>
+<div style="display: inline_block" align="center">
+
   <img align="center" alt="Xpzin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Xpzin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Xpzin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -33,9 +36,9 @@
 
 
 
-
-<div align="center"> 
 <h2 align="center">Contact</h2>
+<div align="center"> 
+
    <a href="https://instagram.com/xpzin.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5531972672023">
       <img
