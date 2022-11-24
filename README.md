@@ -1,5 +1,6 @@
 
-![20221124_134042](https://user-images.githubusercontent.com/106640668/203833387-6857140a-37b8-488d-8694-5a27106a1219.png)
+![20221124_140358](https://user-images.githubusercontent.com/106640668/203836911-595a827c-677b-44ee-8bf2-1b156bd25524.jpg)
+
 
 <h2 align="center">Hello programmers 👨‍💻 </h2>
 
