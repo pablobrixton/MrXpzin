@@ -12,14 +12,14 @@ Here is my statistics and languages<h1>
       <td>
         <a href="https://github.com/mrxpzin">
           <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=mrxpzin&include_all_commits=false&count_private=true&show_icons=true&line_height=20text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=Estatísticas%20do%20Github&locale=pt-br"
+            src="https://github-readme-stats.vercel.app/api?username=pablobrixton&include_all_commits=false&count_private=true&show_icons=true&line_height=20text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=Estatísticas%20do%20Github&locale=pt-br"
             alt="Xpzin Github Stats" />
         </a>
       </td>
       <td>
         <a href="https://github.com/mrxpzin">
           <img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxpzin&text_color=D3D3D3&bg_color=0d1117&hide_border=true&layout=compact&locale=pt-br"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablobrixton&text_color=D3D3D3&bg_color=0d1117&hide_border=true&layout=compact&locale=pt-br"
             alt="Xpzin Language Stats" />
         </a>
       </td>
